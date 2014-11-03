@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "zernyu",
+    "longName": "Charge Status",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Charge Status",
+    "uuid": "6c401c15-9b57-471d-a1e0-e215495b67ae",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
